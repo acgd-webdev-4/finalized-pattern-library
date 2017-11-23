@@ -36,5 +36,5 @@ Drop your pattern library into your Markbot application. Make sure to fix all th
 2. Submit the GitHub URL to Canvas
 
 ```
-https://username.github.io/dog-rescue-pattern-library/
+https://username.github.io/ecommerce-pattern-library/
 ```
