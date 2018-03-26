@@ -2,7 +2,7 @@
 summary: 'The final pattern library fully complete with all components, example pages & fantastic explanations.'
 time: '10 minutes'
 deliverables: 'Pattern library'
-submit: "https://algonquin.instructure.com/courses/658177/assignments/5530631"
+submit: "https://algonquin.instructure.com/courses/881406/assignments/7974785"
 ---
 
 # Finalized pattern library
@@ -10,7 +10,9 @@ submit: "https://algonquin.instructure.com/courses/658177/assignments/5530631"
 ## Overview
 
 - [ ] Link the new product details page into all the appropriate places.
-- [ ] Run your pattern library through Markbot and make sure it passes all the checks.
+- [ ] Sweat all the details to make sure everything is perfect.
+- [ ] Double check all your spelling & grammar in the readmes.
+- [ ] Run your pattern library through Markbot and make sure it passes all the checks. *Remember you should drop each folder separately.*
 - [ ] Submit the GitHub URL for your pattern library to the “Finalized pattern library” assignment on Canvas.
 
 ---
