@@ -2,7 +2,6 @@
 summary: 'The final pattern library fully complete with all components, example pages & fantastic explanations.'
 time: '10 minutes'
 deliverables: 'Pattern library'
-submit: "https://algonquin.instructure.com/courses/881406/assignments/7974785"
 ---
 
 # Finalized pattern library
